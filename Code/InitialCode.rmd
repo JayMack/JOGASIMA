@@ -1,0 +1,14 @@
+---
+title: "Initial ML File"
+author: "JMciver"
+date: "Saturday, January 31, 2015"
+output: html_document
+---
+
+Looking to test the github repository and everyone's committing priviledges
+
+```{r}
+#add name here
+GroupMembers <- c("Jordan","TWO","THREE","FOUR")
+
+```
