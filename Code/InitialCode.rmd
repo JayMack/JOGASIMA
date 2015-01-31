@@ -12,3 +12,4 @@ Looking to test the github repository and everyone's committing priviledges
 GroupMembers <- c("Jordan","TWO","THREE","FOUR")
 
 ```
+...and testing the pull request functionality
