@@ -13,3 +13,5 @@ GroupMembers <- c("Jordan","TWO","THREE","FOUR")
 
 ```
 ...and testing the pull request functionality
+
+...and now testing the RStudio version control integration
